@@ -1,0 +1,42 @@
+# Linux Security & Administration Lab
+
+## Overview
+
+This repository documents my hands-on Linux security and system administration practice. The lab focuses on foundational Linux administration, and file permissions, system configuration, command-line operations, and basic security practices.
+
+## Objectives
+
+- Build practice Linux systems administration skills
+- Practice managing users, groups, and permissions
+- Strengthen command-line proficiency
+- Apply basic Linux security principles
+- Document hands-on technical work for professional development
+
+## Environment 
+
+Ubuntu Linux
+Kali Lunix
+Virtual machine lab environment
+
+## Skills Practice 
+
+- Linux command-line administration
+- User and group management
+- File and directory permission
+- System navigation and file management
+- Process and service management
+- Basic system security
+- Troubleshooting
+- Technical documentation
+
+## Lab Documentation
+
+Hands-on exercises, commands, observations, screenshots, and lessons learned will be documented as the lab develops.
+
+## What I Learned 
+
+This section will be updated throughout the lab to document technical concepts, challenges, troubleshooting steps, and lessons learned.
+
+## Disclaimer
+
+This project is conducted in a controlled personal lab environment for educational and professional development purposes.
